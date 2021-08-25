@@ -1,1 +1,2 @@
 # Roman-Numeral-Identification-Program
+The Roman numeral identification program is a C++ program that identifies whether a given input is a valid Roman numberal between 1 and 100 and also states the decimal equivalent of a valid Roman numeral in this range. It accomplishes this through the use of a state table and an action table. The state table processes the input to confirm its validity while the action table simultaneously calculates the value of a Roman numeral input.
